@@ -1,4 +1,5 @@
 #!/bin/bash
+tar cf 2017B5A70546P.tar *
 git add .
 git commit -m $1
 git push
