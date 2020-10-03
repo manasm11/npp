@@ -82,3 +82,5 @@ It also updates the pid and status of the process in command structure.
 
 ## print_cmds
 It takes commands array and prints the pids and status of each command.
+
+# The CODE
